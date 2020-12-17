@@ -35,6 +35,12 @@
 							"description": "name or path of the script"
 						}
 					}
+				},
+				"convertSelectionWithScript.commands": {
+					"type": "array",
+					"items": {
+						"type": "object"
+					}
 				}
 			}
 		}
